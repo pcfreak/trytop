@@ -1,0 +1,110 @@
+### 185.233.83.154 rus 2022-10-16
+### 159.223.51.173 sakti lifetime
+### 167.172.83.63 sg2-vip 2022-10-16
+### 159.223.88.38 Experiment 2022-10-16
+### 159.223.84.249 Ajun 2022-11-12
+### 185.233.83.154 Gliderius lifetime
+### 159.89.1.5 Hamada lifetime
+### 165.232.164.230 Potato lifetime
+### 128.199.250.165 Santzx 2022-12-13
+### 54.177.59.163 naruto 2022-11-19 Medusa
+### 103.77.106.217 BOTNET lifetime
+### 103.189.235.238 Sendal 2022-11-23
+### 103.169.7.33 Sendal 2022-11-23
+### 103.38.215.76 myserver 2022-10-23
+### 103.196.116.171 332627-demoid-6745-23-10-22-nusa-id 2022-10-23
+### 103.120.18.40 myserver 2022-10-24
+### 139.180.223.119 vultr 2022-10-27
+### 20.213.10.219 ninnin 2022-10-29
+### 178.128.86.182 FERNANDA 2022-12-29 Medusa
+### 128.199.92.94 coraozon-promo 2022-11-29 Medusa
+### 128.199.120.60 ubuntu-s-1vcpu-1gb-amd-sgp1-01 2022-10-31
+### 128.199.180.118 ubuntu-s-1vcpu-1gb-amd-sgp1-01 2022-10-31
+### 66.70.175.61 vps78179.cloudpublic.com.br 2022-11-02
+### 38.9.140.238 DAFVPNSTORES 2022-12-03 Medusa
+### 68.183.231.93 Masbani 2022-12-04 Medusa
+### 167.172.82.253 Bagasvpn 2022-12-05 Medusa
+### 178.128.55.176 AJUNVPN 2022-12-05
+### 188.166.222.138 RISQ 2022-12-05
+### 34.101.194.224 ziya 2022-11-05
+### 38.9.140.236 6871-demoid-100305-6-11-2022-nusa-id 2022-11-06
+===============================================
+### 47.254.244.2 Potato lifetime
+### 176.124.212.206 v1456182.hosted-by-vdsina.ru 2022-11-07
+### 128.199.102.121 kamillanet 2022-11-07
+### 107.152.37.232 Elmander lifetime
+### 20.226.52.55 Ubuntu 2022-11-07
+### 146.190.84.155 store 2022-12-08
+### 176.124.212.206 Elmander lifetime
+### 128.199.78.2 debian-sgdo3 2022-11-09
+### 165.232.171.175 sgdo3-debian 2022-11-09
+### 143.198.222.93 Alfares lifetime Medusa
+### 34.124.241.250 abc-1 2022-11-09
+### 103.150.196.50 alfaretza 2022-11-10
+### 206.189.94.159 Nanda lifetime Medusa
+### 143.198.218.253 ubuntu-s-4vcpu-8gb-intel-sgp1-01 2022-11-10
+### 139.59.136.95 digitalocean-ubuntu-fra1-s-1vcpu-1gb 2022-11-10
+### 134.209.105.128 Okayyo lifetime
+### 68.183.182.100 ubuntu-s-4vcpu-8gb-intel-sgp1-01 2022-11-11
+### 143.198.204.7 debian-s-4vcpu-8gb-amd-sgp1-01 2022-11-11
+### 143.198.216.203 SendalNihGuysSenggolDong 2022-12-11
+### 103.150.196.253 yha 2022-11-12
+### 128.199.216.226 Tamara lifetime Medusa
+### 38.9.140.90 alfaretza 2022-11-12
+### 45.79.86.176 localhost 2022-11-12
+### 143.198.86.105 Tiara lifetime Medusa
+### 161.35.165.31 Potato 2022-11-20
+### 143.198.84.195 Lukita lifetime Medusa
+### 143.198.81.122 Fitra lifetime Medusa
+### 103.150.197.69 snakeyvps lifetime
+### 74.207.241.224 localhost 2022-11-13
+### 172.105.152.130 localhost 2022-11-13
+### 139.162.214.135 localhost 2022-11-13
+### 194.195.126.43 Adedayo 2022-12-14
+### 213.219.36.77 Adedayo 2022-12-14
+### 172.104.62.252 Adedayo 2022-12-14
+### 139.144.77.97 Adedayo 2022-12-14
+### 45.33.116.207 Adedayo 2022-12-14
+### 178.79.190.106 Adedayo 2022-12-14
+### 172.105.15.144 Adedayo 2022-12-14
+### 143.198.208.223 vvipsgdo lifetime Medusa
+### 165.22.18.164 ubuntu-s-2vcpu-4gb-amd-fra1-01 2022-11-14
+### 128.199.224.201 Aji 2022-12-15 Medusa
+### 178.62.62.17 ubuntu-s-2vcpu-2gb-amd-lon1-01 2022-11-15
+### 159.65.24.146 ubuntu-s-4vcpu-8gb-amd-lon1-01 2022-11-15
+### 188.166.149.161 ubuntu-s-4vcpu-8gb-amd-lon1-01 2022-11-15
+### 161.35.158.119 ubuntu-s-4vcpu-8gb-amd-ams3-01 2022-11-15
+### 134.209.188.53 ubuntu-s-4vcpu-8gb-amd-lon1-01 2022-11-15
+### 188.166.34.196 ubuntu-s-4vcpu-8gb-amd-ams3-01 2022-11-15
+### 46.101.93.119 ubuntu-s-2vcpu-4gb-amd-lon1-01 2022-11-15
+### 161.35.19.64 ubuntu-s-1vcpu-1gb-fra1-01 2022-11-15
+### 128.199.93.63 Ultraman 2022-12-16
+### 20.189.112.204 Newpanel 2022-11-16
+### 103.83.156.62 cntanbu 2022-12-16 BapakGuru
+### 139.180.138.94 Amitaba 2022-12-16
+### 38.9.140.80 MPSSH lifetime Medusa
+### 143.198.212.158 ANDIKA 2022-12-16 Medusa
+### 146.190.85.13 Test 2022-11-16
+### 156.981.899.111 BapakGuru lifetime BapakGuru
+### 146.190.93.31 DwiVPSDO lifetime BapakGuru
+### 38.9.136.239 IndoNusa lifetime BapakGuru
+### 41.216.177.18 JustinATHA lifetime BapakGuru
+### 178.128.215.121 Doupian 2022-12-17 Medusa
+### 139.59.244.159 RISQ 2022-12-17
+### 139.177.187.239 localhost 2022-11-17
+### 146.190.85.251 RISQ 2022-12-17
+### 146.190.81.70 do1 2022-11-17
+### 68.183.237.240 ubuntu-s-4vcpu-8gb-intel-sgp1-01 2022-11-17
+### 157.245.62.174 ubuntu-s-1vcpu-2gb-intel-sgp1-01 2022-11-17
+### 146.190.86.195 Denka3 2022-12-18
+### 103.77.107.37 IDBerkahTanbu lifetime BapakGuru
+### 159.223.88.207 Gratisan lifetime
+### 68.183.237.159 Nuryanto 2022-12-18 Medusa
+### 134.209.188.167 ubuntu-s-2vcpu-2gb-amd-lon1-01 2022-11-18
+### 143.198.208.244 Vvip lifetime
+### 146.190.84.149 Iping lifetime
+### 188.166.14.4 ubuntu-s-2vcpu-4gb-amd-ams3-01 2022-11-18
+### 167.71.51.113 ubuntu-s-2vcpu-4gb-amd-fra1-01 2022-11-18
+### 146.190.86.133 fraxstore 2022-12-19 Medusa
+### 157.245.202.119 Vps-pribadi 2022-11-18
+### 143.198.84.230 MIX-SC 2022-11-18
