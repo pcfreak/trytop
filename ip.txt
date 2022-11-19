@@ -106,5 +106,5 @@
 ### 188.166.14.4 ubuntu-s-2vcpu-4gb-amd-ams3-01 2022-11-18
 ### 167.71.51.113 ubuntu-s-2vcpu-4gb-amd-fra1-01 2022-11-18
 ### 146.190.86.133 fraxstore 2022-12-19 Medusa
-### 157.245.202.119 Vps-pribadi 2022-11-18
+### 157.245.202.119 Vps-pribadi lifetime BapakGuru
 ### 143.198.84.230 MIX-SC 2022-11-18
