@@ -5,7 +5,7 @@
 ### 159.223.84.249 Ajun 2022-11-12
 ### 185.233.83.154 Gliderius lifetime
 ### 159.89.1.5 Hamada lifetime
-### 165.232.164.230 Potato lifetime
+### 128.199.157.192 Potato lifetime
 ### 128.199.250.165 Santzx 2022-12-13
 ### 54.177.59.163 naruto 2022-11-19 Medusa
 ### 103.77.106.217 BOTNET lifetime
@@ -53,7 +53,7 @@
 ### 38.9.140.90 alfaretza 2022-11-12
 ### 45.79.86.176 localhost 2022-11-12
 ### 143.198.86.105 Tiara lifetime Medusa
-### 161.35.165.31 Potato 2022-11-20
+### 161.35.165.31 Olly lifetime
 ### 143.198.84.195 Lukita lifetime Medusa
 ### 143.198.81.122 Fitra lifetime Medusa
 ### 103.150.197.69 snakeyvps lifetime
