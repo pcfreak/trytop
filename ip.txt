@@ -98,7 +98,7 @@
 ### 157.245.62.174 ubuntu-s-1vcpu-2gb-intel-sgp1-01 2022-11-17
 ### 146.190.86.195 Denka3 2022-12-18
 ### 103.77.107.37 IDBerkahTanbu lifetime BapakGuru
-### 159.223.88.207 Gratisan 2022-11-20
+### 159.223.88.207 Gratisan 2022-12-20
 ### 68.183.237.159 Nuryanto 2022-12-18 Medusa
 ### 134.209.188.167 ubuntu-s-2vcpu-2gb-amd-lon1-01 2022-11-18
 ### 143.198.208.244 Vvip lifetime
