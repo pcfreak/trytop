@@ -129,3 +129,4 @@
 ### 103.227.255.26 Febs lifetime BapakGuru
 ### 777.777.777.777 Full lifetime Caesar
 ### 103.169.210.110 Muhlis lifetime BapakGuru
+### 146.190.107.215 Kidang lifetime Caesar
