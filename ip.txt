@@ -132,3 +132,4 @@
 ### 146.190.107.215 Kidang lifetime Caesar
 ### 128.199.248.231 FANSSTORE 2022-12-10 Medusa
 ### 103.253.146.25 angga 2022-12-23 Caesar
+### 188.166.188.254 angga 2022-12-23 Caesar
