@@ -143,3 +143,4 @@
 ### 103.97.111.138 ApikTanbu1 lifetime BapakGuru
 ### 146.190.111.72 ARI-VVIP 2022-12-24
 ### 178.128.218.49 debian-s-1vcpu-1gb-intel-sgp1-01 2022-11-24
+### 147.139.136.80 iZk1agt71ejocnzkhd2reeZ 2022-11-24
