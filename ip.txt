@@ -144,3 +144,4 @@
 ### 178.128.218.49 debian-s-1vcpu-1gb-intel-sgp1-01 2022-11-24
 ### 147.139.136.80 iZk1agt71ejocnzkhd2reeZ 2022-11-24
 ### 143.110.145.134 bot-rosa 2022-11-24
+### 47.254.244.2 Potato lifetime
