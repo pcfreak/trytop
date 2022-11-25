@@ -97,7 +97,7 @@
 ### 103.77.107.37 IDBerkahTanbu lifetime BapakGuru
 ### 159.223.88.207 Gratisan 2022-12-20
 ### 134.209.188.167 ubuntu-s-2vcpu-2gb-amd-lon1-01 2022-11-18
-### 143.198.208.244 Vvip lifetime
+### 128.199.72.134 FSSHstore lifetime
 ### 146.190.84.149 Iping lifetime
 ### 188.166.14.4 ubuntu-s-2vcpu-4gb-amd-ams3-01 2022-11-18
 ### 167.71.51.113 ubuntu-s-2vcpu-4gb-amd-fra1-01 2022-11-18
