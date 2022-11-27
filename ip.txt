@@ -163,3 +163,4 @@
 ### 103.174.114.178 IDCAIO lifetime BapakGuru
 ### 54.251.237.135 angga lifetime Caesar
 ### 103.83.157.231 404NotFound 2022-12-27
+### 172.105.116.218 ptr1 2022-12-27 PutraStore
