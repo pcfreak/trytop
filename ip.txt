@@ -166,3 +166,4 @@
 ### 172.105.116.218 ptr1 2022-12-27 PutraStore
 ### 18.177.120.208 abdul lifetime Caesar
 ### 206.189.87.9 Wikan 2022-12-28 Medusa
+### 146.190.93.156 BarokahNet 2022-12-28 Medusa
