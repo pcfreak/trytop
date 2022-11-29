@@ -84,7 +84,6 @@
 ### 146.190.85.13 Test 2022-11-16
 ### 156.981.899.111 BapakGuru lifetime BapakGuru
 ### 146.190.93.31 DwiVPSDO lifetime BapakGuru
-### 38.9.136.239 IndoNusa lifetime BapakGuru
 ### 41.216.177.18 JustinATHA lifetime BapakGuru
 ### 178.128.215.121 Doupian 2022-12-17 Medusa
 ### 139.59.244.159 RISQ 2022-12-17
