@@ -174,3 +174,4 @@
 ### 103.169.210.18 IndoApikAIO lifetime BapakGuru
 ### 146.19.196.146 Puny 2022-11-29
 ### 103.31.250.203 funny.my.id 2022-11-29
+### 27.124.85.118 ptr21 2022-12-30 PutraStore
