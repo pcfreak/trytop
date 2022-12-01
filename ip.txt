@@ -191,3 +191,4 @@
 ### 139.99.73.132 ovhfree 2022-12-01
 ### 127.20.20.20 Tryit lifetime Potato
 ### 127.30.30.30 SwordBlade lifetime Sword
+### 127.40.40.40 StayCool 2023-01-01 Stay
