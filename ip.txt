@@ -16,7 +16,6 @@
 ### 139.180.223.119 vultr 2022-10-27
 ### 20.213.10.219 ninnin 2022-10-29
 ### 178.128.86.182 FERNANDA 2022-12-29 Medusa
-### 128.199.92.94 coraozon-promo 2022-11-29 Medusa
 ### 128.199.120.60 ubuntu-s-1vcpu-1gb-amd-sgp1-01 2022-10-31
 ### 128.199.180.118 ubuntu-s-1vcpu-1gb-amd-sgp1-01 2022-10-31
 ### 66.70.175.61 vps78179.cloudpublic.com.br 2022-11-02
