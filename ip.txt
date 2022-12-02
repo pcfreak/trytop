@@ -192,4 +192,3 @@
 ### 127.30.30.30 SwordBlade lifetime Sword
 ### 127.40.40.40 StayCool 2023-01-31 Stay
 ### 127.50.50.50 TryLife lifetime Potato
-### 127.0.0.1 Anu 2023-01-01 Fahmissh
