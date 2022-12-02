@@ -77,13 +77,13 @@
 ### 161.35.19.64 ubuntu-s-1vcpu-1gb-fra1-01 2022-11-15
 ### 128.199.93.63 Ultraman 2022-12-16
 ### 20.189.112.204 Newpanel 2022-11-16
-### 103.83.156.62 cntanbu 2022-12-16 BapakGuru
+### 103.83.156.62 cntanbu 2022-12-16 Bapakguru
 ### 139.180.138.94 Amitaba 2022-12-16
 ### 38.9.140.80 MPSSH lifetime Medusa
 ### 146.190.85.13 Test 2022-11-16
-### 156.981.899.111 BapakGuru lifetime BapakGuru
-### 146.190.93.31 DwiVPSDO lifetime BapakGuru
-### 41.216.177.18 JustinATHA lifetime BapakGuru
+### 156.981.899.111 Bapakguru lifetime Bapakguru
+### 146.190.93.31 DwiVPSDO lifetime Bapakguru
+### 41.216.177.18 JustinATHA lifetime Bapakguru
 ### 178.128.215.121 Doupian 2022-12-17 Medusa
 ### 139.59.244.159 RISQ 2022-12-17
 ### 139.177.187.239 localhost 2022-11-17
@@ -92,37 +92,37 @@
 ### 68.183.237.240 ubuntu-s-4vcpu-8gb-intel-sgp1-01 2022-11-17
 ### 157.245.62.174 ubuntu-s-1vcpu-2gb-intel-sgp1-01 2022-11-17
 ### 146.190.86.195 Denka3 2022-12-18
-### 103.77.107.37 IDBerkahTanbu lifetime BapakGuru
+### 103.77.107.37 IDBerkahTanbu lifetime Bapakguru
 ### 159.223.88.207 Gratisan 2022-12-20
 ### 134.209.188.167 ubuntu-s-2vcpu-2gb-amd-lon1-01 2022-11-18
 ### 128.199.72.134 FSSHstore lifetime
 ### 146.190.84.149 Iping lifetime
 ### 188.166.14.4 ubuntu-s-2vcpu-4gb-amd-ams3-01 2022-11-18
 ### 167.71.51.113 ubuntu-s-2vcpu-4gb-amd-fra1-01 2022-11-18
-### 157.245.202.119 Vps-pribadi lifetime BapakGuru
+### 157.245.202.119 Vps-pribadi lifetime Bapakguru
 ### 143.198.84.230 MIX-SC 2022-11-18
 ### 103.41.207.74 Nekuzo 2022-12-19
-### 146.190.100.8 Dwi lifetime BapakGuru
+### 146.190.100.8 Dwi lifetime Bapakguru
 ### 188.166.228.101 nanda2 2022-12-19 Medusa
-### 103.167.34.91 DeFebs1 lifetime BapakGuru
+### 103.167.34.91 DeFebs1 lifetime Bapakguru
 ### 149.129.241.40 sapiwikan 2022-11-19
-### 194.233.80.140 SgContabo1 lifetime BapakGuru
+### 194.233.80.140 SgContabo1 lifetime Bapakguru
 ### 146.190.98.228 Potato 2022-11-20
 ### 146.190.96.212 pee 2022-11-20
 ### 188.166.219.209 Rudi 2022-12-20 Medusa
 ### 96.126.105.238 Adedayo 2022-11-27 Adedayo
 ### 45.85.250.172 vmd103104.contaboserver.net 2022-11-20
 ### 146.190.101.29 FixGay 2022-12-20
-### 103.227.253.245 RajasaAIO lifetime BapakGuru
+### 103.227.253.245 RajasaAIO lifetime Bapakguru
 ### 188.166.188.139 MasBOY 2022-12-21 Medusa
 ### 146.190.101.7 fraxstore 2022-12-18 Medusa
 ### 167.71.235.87 ubuntu-s-1vcpu-1gb-amd-blr1-01 2022-11-21
 ### 18.181.169.111 ip-172-26-11-53 2022-12-21
 ### 676.909.23.14 Gangnam 2022-12-22 Caesar
 ### 103.169.210.24 nmam 2022-12-22 Caesar
-### 103.227.255.26 Febs lifetime BapakGuru
+### 103.227.255.26 Febs lifetime Bapakguru
 ### 777.777.777.777 Full lifetime Caesar
-### 103.169.210.110 Muhlis lifetime BapakGuru
+### 103.169.210.110 Muhlis lifetime Bapakguru
 ### 146.190.107.215 Kidang lifetime Caesar
 ### 128.199.248.231 FANSSTORE 2023-01-09 Medusa
 ### 103.253.146.25 angga 2022-12-23 Caesar
@@ -137,11 +137,11 @@
 ### 20.63.142.184 Baru 2022-11-23
 ### 103.174.114.98 Mana 2022-11-24
 ### 103.181.142.152 Mana 2022-11-24
-### 103.97.111.138 ApikTanbu1 lifetime BapakGuru
+### 103.97.111.138 ApikTanbu1 lifetime Bapakguru
 ### 178.128.213.222 ARI-VVIP 2022-12-24
 ### 178.128.218.49 debian-s-1vcpu-1gb-intel-sgp1-01 2022-11-24
 ### 147.139.136.80 iZk1agt71ejocnzkhd2reeZ 2022-11-24
-### 143.110.145.134 bot-rosa 2022-12-26 PutraStore
+### 143.110.145.134 bot-rosa 2022-12-26 Putrastore
 ### 47.254.244.2 Potato lifetime
 ### 178.128.83.112 SERV-TMR2 2022-12-25 Medusa
 ### 103.76.173.94 ubuntu 2022-11-25
@@ -151,17 +151,17 @@
 ### 159.223.88.149 mayasari1 2022-12-25 Medusa
 ### 146.190.99.65 ServerDo 2022-11-25
 ### 103.217.210.7 Moga 2022-11-25
-### 29.05.96.00 Potato 2023-02-04 PutraStore
+### 29.05.96.00 Potato 2023-02-04 Putrastore
 ### 45.32.236.34 vultr 2022-11-26
-### 159.65.2.52 putra1 2022-12-26 PutraStore
+### 159.65.2.52 putra1 2022-12-26 Putrastore
 ### 167.99.70.153 debian-s-1vcpu-512mb-10gb-sgp1-01 2022-11-26
 ### 178.128.221.250 debian-s-1vcpu-1gb-sgp1-01 2022-11-26
 ### 103.176.79.71 Man123 2022-11-27
 ### 34.124.240.177 sg 2022-11-26
-### 103.174.114.178 IDCAIO lifetime BapakGuru
+### 103.174.114.178 IDCAIO lifetime Bapakguru
 ### 54.251.237.135 angga lifetime Caesar
 ### 103.83.157.231 404NotFound 2022-12-27
-### 172.105.116.218 ptr1 2022-12-27 PutraStore
+### 172.105.116.218 ptr1 2022-12-27 Putrastore
 ### 18.177.120.208 abdul lifetime Caesar
 ### 206.189.87.9 Wikan 2022-12-28 Medusa
 ### 146.190.93.156 BarokahNet 2022-12-28 Medusa
@@ -170,10 +170,10 @@
 ### 103.97.111.151 angga 2022-12-29 Caesar
 ### 4.193.120.215 debian 2022-11-29
 ### 146.190.95.154 azzphuc 2023-01-28 Adedayo
-### 103.169.210.18 IndoApikAIO lifetime BapakGuru
+### 103.169.210.18 IndoApikAIO lifetime Bapakguru
 ### 146.19.196.146 Puny 2022-11-29
 ### 103.31.250.203 funny.my.id 2022-11-29
-### 27.124.85.118 ptr21 2022-12-30 PutraStore
+### 27.124.85.118 ptr21 2022-12-30 Putrastore
 ### 128.199.84.224 mslfzi 2022-12-30 Medusa
 ### 188.166.226.252 DOram2Mn lifetime Medusa
 ### 139.59.168.166 debian-s-2vcpu-4gb-amd-lon1-01 2022-11-30
@@ -181,16 +181,15 @@
 ### 54.238.107.10 Irfan 2022-12-30
 ### 167.99.64.251 myserver 2022-11-30
 ### 139.99.74.81 d2-8-sgp1 2022-11-30
-### 159.65.0.163 FreenetVpn 2022-12-30 BapakGuru
+### 159.65.0.163 FreenetVpn 2022-12-30 Bapakguru
 ### 103.151.140.117 csr87 2022-12-30 Caesar
 ### 20.92.244.19 server2 2022-12-01
 ### 122.248.37.44 angga 2022-12-31 Caesar
 ### 103.169.210.194 AjunGay 2022-12-31
-### 159.223.44.9 FSSHstore2 lifetime FahmiSSH
-### 103.136.19.138 CorazonAPIK lifetime BapakGuru
+### 159.223.44.9 FSSHstore2 lifetime Fahmissh
+### 103.136.19.138 CorazonAPIK lifetime Bapakguru
 ### 139.99.73.132 ovhfree 2022-12-01
 ### 127.20.20.20 Tryit lifetime Potato
 ### 127.30.30.30 SwordBlade lifetime Sword
 ### 127.40.40.40 StayCool 2023-01-31 Stay
 ### 127.50.50.50 TryLife lifetime Potato
-### 127.60.60.60 TryMon 2023-01-01 Potato
