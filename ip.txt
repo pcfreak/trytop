@@ -88,7 +88,6 @@
 ### 68.183.237.240 ubuntu-s-4vcpu-8gb-intel-sgp1-01 2022-11-17
 ### 157.245.62.174 ubuntu-s-1vcpu-2gb-intel-sgp1-01 2022-11-17
 ### 146.190.86.195 Denka3 2022-12-18
-### 103.77.107.37 IDBerkahTanbu lifetime Bapakguru
 ### 159.223.88.207 Gratisan 2022-12-20
 ### 134.209.188.167 ubuntu-s-2vcpu-2gb-amd-lon1-01 2022-11-18
 ### 128.199.72.134 FSSHstore lifetime
