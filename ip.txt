@@ -219,7 +219,6 @@
 ### 103.227.253.186 ajunganteng 2023-01-04 Ajunvpn
 ### 103.77.106.111 BerkahTanbu lifetime Bapakguru
 ### 91.199.223.93 onepiece 2022-12-05
-### 103.87.68.36 ajunganteng 2023-01-04 Ajunvpn
 ### 188.166.236.122 ptrserve4 2022-12-05
 ### 103.217.210.45 vps-indo 2023-01-04
 ### 178.128.50.251 Do 2023-01-04
