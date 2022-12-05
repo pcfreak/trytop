@@ -78,7 +78,6 @@
 ### 139.180.138.94 Amitaba 2022-12-16
 ### 38.9.140.80 MPSSH lifetime Medusa
 ### 146.190.85.13 Test 2022-11-16
-### 156.981.899.111 Bapakguru lifetime Bapakguru
 ### 146.190.93.31 DwiVPSDO lifetime Bapakguru
 ### 41.216.177.18 JustinATHA lifetime Bapakguru
 ### 178.128.215.121 Doupian 2022-12-17 Medusa
